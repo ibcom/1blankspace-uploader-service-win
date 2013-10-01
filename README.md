@@ -3,4 +3,6 @@
 
 Windows Service File Uploader
 
-by morbisviper - find him @ freelancer.com
+Design by Cassandra - alt-designIT.com.au
+
+Coding by morbisviper - find him @ freelancer.com
