@@ -1,0 +1,14 @@
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\bin\Debug\mydigitalstructure_attachment_loader.exe.config
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\bin\Debug\mydigitalstructure_attachment_loader.exe
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\bin\Debug\mydigitalstructure_attachment_loader.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\bin\Debug\HttpLibrary.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\bin\Debug\ServiceStack.Text.dll
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\bin\Debug\HttpLibrary.pdb
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\mydigitalspace.frmLogin.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\mydigitalspace.frmConfiguration.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\mydigitalstructure_attachment_loader.Properties.Resources.resources
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\mydigitalstructure_attachment_loader.exe
+C:\Users\morbi\Documents\Free Lance Jobs\mydigitalspace\mydigitalstructure attachment loader\mydigitalstructure\obj\Debug\mydigitalstructure_attachment_loader.pdb
